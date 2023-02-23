@@ -1,0 +1,34 @@
+export const productApi = 
+[
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20221109/0Xvw/636b8d94f997ddfdbd662124/-473Wx593H-461118544-blue-MODEL.jpg'
+    },
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20221109/f79W/636b8f45aeb269659c7f9ba3/-473Wx593H-461118509-yellow-MODEL.jpg'
+    },
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20230221/7Tr4/63f4ddfcaeb26924e380ef84/-473Wx593H-465194215-white-MODEL.jpg'
+    },
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20230127/gFYo/63d3e5bbaeb269c651fe364f/-473Wx593H-465669828-navy-MODEL.jpg'
+    },
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20220623/IqYT/62b3856daeb26921af429ee7/-473Wx593H-464531601-black-MODEL.jpg'
+    },
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20230221/o4O0/63f4dc90aeb26924e380e739/-473Wx593H-465379412-olive-MODEL.jpg'
+    },
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20220623/IqYT/62b3856daeb26921af429ee7/-473Wx593H-464531601-black-MODEL.jpg'
+    },
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20220819/dsEj/62ffb035f997dd394c084ea0/-473Wx593H-461118860-blue-MODEL.jpg'
+    }
+    ,
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20230127/gFYo/63d3e5bbaeb269c651fe364f/-473Wx593H-465669828-navy-MODEL.jpg'
+    },
+    {
+        src:'https://assets.ajio.com/medias/sys_master/root/20230221/HEkq/63f4d591aeb26924e380745c/jump-cuts-olive-crew-typographic-print-slim-fit-crew-neck-t-shirt.jpg'
+    }
+]
